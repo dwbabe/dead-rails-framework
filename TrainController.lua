@@ -1,4 +1,4 @@
--- @75132 @scampilI
+-- @75132 @scampilI Connected Discord-GitHub
 
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
